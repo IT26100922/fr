@@ -1,0 +1,10 @@
+import assert from 'node:assert/strict';
+import {filterPeople} from '../frontend/assets/js/discovery.js';
+const rows=[{id:1,interests:[{id:1,rating:5}],experience:'Beginner',goals:['Study Partners'],collaboration:'Both'},{id:2,interests:[{id:1,rating:2},{id:6,rating:4}],experience:'Advanced',goals:['Project Partners'],collaboration:'Mostly Projects'}];
+assert.equal(filterPeople(rows,{}).length,2);
+assert.deepEqual(filterPeople(rows,{interest:'1'}).map(x=>x.id),[1]);
+assert.deepEqual(filterPeople(rows,{interest:6,experience:'Advanced',goal:'Project Partners',collaboration:'Mostly Projects'}).map(x=>x.id),[2]);
+assert.equal(filterPeople(rows,{goal:'Mentorship'}).length,0);
+assert.equal(filterPeople(rows,{experience:'Beginner',collaboration:'Mostly Projects'}).length,0);
+assert.equal(rows.length,2);
+console.log('PASS: six discovery filter checks (rating threshold, combinations, empty results, immutability)');

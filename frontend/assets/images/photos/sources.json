@@ -1,0 +1,301 @@
+{
+  "hero": {
+    "source": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "People working together around a table with laptops",
+    "widths": [
+      640,
+      1280,
+      1800
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "hero-640.webp",
+        "bytes": 28314
+      },
+      {
+        "file": "hero-1280.webp",
+        "bytes": 70766
+      },
+      {
+        "file": "hero-1800.webp",
+        "bytes": 127530
+      }
+    ]
+  },
+  "study": {
+    "source": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "A group sharing ideas and studying together",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "study-640.webp",
+        "bytes": 28234
+      },
+      {
+        "file": "study-1280.webp",
+        "bytes": 73668
+      }
+    ]
+  },
+  "project": {
+    "source": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "A project team working together with laptops",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "project-640.webp",
+        "bytes": 38136
+      },
+      {
+        "file": "project-1280.webp",
+        "bytes": 103980
+      }
+    ]
+  },
+  "workshop": {
+    "source": "https://images.unsplash.com/photo-1531482615713-2afd69097998",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Participants learning together during a workshop",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "workshop-640.webp",
+        "bytes": 32556
+      },
+      {
+        "file": "workshop-1280.webp",
+        "bytes": 76826
+      }
+    ]
+  },
+  "ai": {
+    "source": "https://images.unsplash.com/photo-1553877522-43269d4ea984",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "A person working at a shared table with a laptop",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "ai-640.webp",
+        "bytes": 14374
+      },
+      {
+        "file": "ai-1280.webp",
+        "bytes": 52754
+      }
+    ]
+  },
+  "ml": {
+    "source": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Hands reviewing information on a laptop",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "ml-640.webp",
+        "bytes": 17796
+      },
+      {
+        "file": "ml-1280.webp",
+        "bytes": 45450
+      }
+    ]
+  },
+  "security": {
+    "source": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Technology equipment in a security environment",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "security-640.webp",
+        "bytes": 53834
+      },
+      {
+        "file": "security-1280.webp",
+        "bytes": 145594
+      }
+    ]
+  },
+  "software": {
+    "source": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Software source code on a computer screen",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "software-640.webp",
+        "bytes": 17436
+      },
+      {
+        "file": "software-1280.webp",
+        "bytes": 44306
+      }
+    ]
+  },
+  "web": {
+    "source": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Website analytics and design work on a laptop",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "web-640.webp",
+        "bytes": 20516
+      },
+      {
+        "file": "web-1280.webp",
+        "bytes": 48800
+      }
+    ]
+  },
+  "mobile": {
+    "source": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "A phone used for mobile application work",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "mobile-640.webp",
+        "bytes": 21192
+      },
+      {
+        "file": "mobile-1280.webp",
+        "bytes": 49570
+      }
+    ]
+  },
+  "data": {
+    "source": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Charts and data displayed on a screen",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "data-640.webp",
+        "bytes": 21898
+      },
+      {
+        "file": "data-1280.webp",
+        "bytes": 54192
+      }
+    ]
+  },
+  "network": {
+    "source": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Electronic components and connected hardware",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "network-640.webp",
+        "bytes": 35664
+      },
+      {
+        "file": "network-1280.webp",
+        "bytes": 96556
+      }
+    ]
+  },
+  "cloud": {
+    "source": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "Server equipment used for computing infrastructure",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "cloud-640.webp",
+        "bytes": 36626
+      },
+      {
+        "file": "cloud-1280.webp",
+        "bytes": 144548
+      }
+    ]
+  },
+  "devops": {
+    "source": "https://images.unsplash.com/photo-1497366811353-6870744d04b2",
+    "license": "https://unsplash.com/license",
+    "retrieved": "2026-11-01",
+    "alt": "A shared workspace for collaborative projects",
+    "widths": [
+      640,
+      1280
+    ],
+    "usage": "Illustrative environment; not a member identity or endorsement",
+    "variants": [
+      {
+        "file": "devops-640.webp",
+        "bytes": 28038
+      },
+      {
+        "file": "devops-1280.webp",
+        "bytes": 74064
+      }
+    ]
+  }
+}
